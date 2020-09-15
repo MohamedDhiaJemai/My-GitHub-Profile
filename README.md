@@ -13,8 +13,6 @@
 
 <br />
 
----
-
 <br />
 ### Languages and Tools:
 
@@ -37,9 +35,6 @@
 
 <br />
 <br />
-
-
----
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
