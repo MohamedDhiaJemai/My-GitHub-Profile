@@ -5,7 +5,7 @@
 
 ## I'm a IT Software Engineer : Spring-Boot, Angular, Ionic Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on many project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
